@@ -1,12 +1,5 @@
 # 3. Supply Chain & Inventory Analysis
 
-**Difficulty**: ⭐⭐⭐ (Intermediate) | **Est. time**: 3-4 weeks | **Best for**: operations focus, supply chain optimization
-
-An operations-analytics project over 180,519 real orders: delivery performance, reorder-risk
-scoring, fulfillment-market reliability, and RFM customer segmentation. Most DA portfolios only
-cover customer-facing digital/retail data — this project deliberately goes deep on operations,
-which is a genuine differentiator for retail, FMCG, logistics, and manufacturing employers.
-
 ## Problem statement
 An operations team wants to know: which shipping modes are actually reliable (not just
 premium-labeled), where late deliveries cluster geographically, which products carry the highest
@@ -90,9 +83,8 @@ SQL-first, same pattern as every project in this repo:
 - Building a filterable operations dashboard on top of parameterized SQL
 
 ## Dashboard preview
-![Supply chain dashboard](./screenshots/dashboard.png)
+![Supply chain dashboard](./dashboard.png)
 
-## Why recruiters love it
 Operations and supply-chain analytics is in high demand at retail, FMCG, and logistics companies,
 and most DA candidates never touch it. The "First Class is actually the least reliable" finding is
 a genuinely surprising, defensible insight — exactly the kind of thing that makes for a strong
