@@ -1,4 +1,4 @@
-# 3. Supply Chain & Inventory Analysis
+#  Supply Chain & Inventory Analysis
 
 ## Problem statement
 An operations team wants to know: which shipping modes are actually reliable (not just
